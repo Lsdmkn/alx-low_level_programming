@@ -1,10 +1,17 @@
 #include <stdio.h>
 /**
- * main- print the size of various types
- * Return:0 if exited properly, non-zero otherwise
+ * main- Entry point
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
+	int a;
+	long int b;
+	long long int c;
+	char d;
+	float f;
+
 printf("Size of a char: %d byte(s)\n", sizeof(char));
 printf("Size of an int: %d byte(s)\n", sizeof(int));
 printf("Size of long int: %d byte(s)\n", size of(long int));
