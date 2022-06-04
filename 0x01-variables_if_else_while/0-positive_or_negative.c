@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * main - Assign_random_number()
+ * main - Entry point
  * Based on a condition
  * Return : always 0
  */
