@@ -2,10 +2,10 @@
 #include <time.h>
 #include <stdio.h>
 
-/*
- *main - Assign_random_number() 
- *Based on a condition
- *Return : always 0
+/**
+ * main - Assign_random_number()
+ * Based on a condition
+ * Return : always 0
  */
 int main(void)
 {
