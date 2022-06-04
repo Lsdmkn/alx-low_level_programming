@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /*
- *main -> assign a random number to the variable n each time it is executed
+ *main - Assign_random_number() 
  *Based on a condition
  *Return : always 0
  */
