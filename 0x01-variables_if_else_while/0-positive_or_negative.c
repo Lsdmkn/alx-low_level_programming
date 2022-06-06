@@ -5,7 +5,7 @@
 /**
  * main - Assigns a random number
  * Based on a condition
- * Return : always 0
+ * Return: (0) Success
  */
 int main(void)
 {
