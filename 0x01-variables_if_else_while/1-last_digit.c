@@ -13,7 +13,7 @@ int main(void)
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
-printf("Last digit of" n, "is" %d);
+printf("Last digit of" n, "is");
 if (n > 5)
 {
 	printf("and is greater than 5");
