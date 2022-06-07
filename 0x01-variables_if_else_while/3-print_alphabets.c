@@ -3,11 +3,10 @@
 /** 
  * main - Entry point of program
  * prints lowercase and upper cases of the alphabet
- * return: (0) Success
+ * return: Always (0) Success
  */
 int main(void)
 {
-
 char ch;
 
 for (ch = 'a' ; ch <= 'z' ; ch++)
