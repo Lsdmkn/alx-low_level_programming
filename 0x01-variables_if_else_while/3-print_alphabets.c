@@ -3,7 +3,7 @@
 /**
  * main - Entry point of program
  * prints lowercase and upper cases of the alphabet
- * return: Always (0) Success
+ * Return: Always (0) Success
  */
 int main(void)
 {
