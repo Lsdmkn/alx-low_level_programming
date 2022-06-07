@@ -6,15 +6,17 @@
  * Return: Always (0) Success
  */
 
-int main(void)
+#include <stdio.h>
+
+int main ()
 {
+
 char ch;
 
-for (ch = 'a' ; ch <= 'z' ; ch++)
+for(ch = 'A' ; ch <= 'Z' ; ch++)
 {
 putchar(ch);
 }
 putchar(10): /* this is a ascii code for new line */
 
-return (0);
-}
+return(0);
