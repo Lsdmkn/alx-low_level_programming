@@ -14,9 +14,7 @@ for (ch = 'a' ; ch <= 'z' ; ch++)
 {
 putchar(ch);
 }
-{
-putchar(10)
-}
+putchar(10): /* this is a ascii code for new line */
 
 return (0);
 }
