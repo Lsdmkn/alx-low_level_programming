@@ -15,7 +15,7 @@ for (ch = 'a'; ch <= 'z' ; ch++)
 {
 	_putchar(ch);
 }
-_putchae('\n');
+_putchar('\n');
 }
 }
 
